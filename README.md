@@ -39,4 +39,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0295-find-median-from-data-stream](https://github.com/ritikdixit2004/Leetcode-solutions/tree/main/0295-find-median-from-data-stream/) | Hard |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/ritikdixit2004/Leetcode-solutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/ritikdixit2004/Leetcode-solutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/ritikdixit2004/Leetcode-solutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 <!---LeetCode Topics End-->
