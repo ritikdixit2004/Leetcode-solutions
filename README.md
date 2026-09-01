@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/ritikdixit2004/Leetcode-solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0397-integer-replacement](https://github.com/ritikdixit2004/Leetcode-solutions/tree/main/0397-integer-replacement/) | Medium |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/ritikdixit2004/Leetcode-solutions/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 ## Greedy
@@ -76,11 +77,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0099-recover-binary-search-tree](https://github.com/ritikdixit2004/Leetcode-solutions/tree/main/0099-recover-binary-search-tree/) | Medium |
+| [0124-binary-tree-maximum-path-sum](https://github.com/ritikdixit2004/Leetcode-solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/ritikdixit2004/Leetcode-solutions/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0099-recover-binary-search-tree](https://github.com/ritikdixit2004/Leetcode-solutions/tree/main/0099-recover-binary-search-tree/) | Medium |
+| [0124-binary-tree-maximum-path-sum](https://github.com/ritikdixit2004/Leetcode-solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/ritikdixit2004/Leetcode-solutions/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 ## Binary Search Tree
 | Problem Name | Difficulty |
@@ -91,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0099-recover-binary-search-tree](https://github.com/ritikdixit2004/Leetcode-solutions/tree/main/0099-recover-binary-search-tree/) | Medium |
+| [0124-binary-tree-maximum-path-sum](https://github.com/ritikdixit2004/Leetcode-solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/ritikdixit2004/Leetcode-solutions/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 ## Geometry
 | Problem Name | Difficulty |
@@ -99,5 +103,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## DP on Trees
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/ritikdixit2004/Leetcode-solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/ritikdixit2004/Leetcode-solutions/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 <!---LeetCode Topics End-->
