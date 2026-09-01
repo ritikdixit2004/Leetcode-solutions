@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0397-integer-replacement](https://github.com/ritikdixit2004/Leetcode-solutions/tree/main/0397-integer-replacement/) | Medium |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/ritikdixit2004/Leetcode-solutions/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -75,20 +76,28 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0099-recover-binary-search-tree](https://github.com/ritikdixit2004/Leetcode-solutions/tree/main/0099-recover-binary-search-tree/) | Medium |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/ritikdixit2004/Leetcode-solutions/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0099-recover-binary-search-tree](https://github.com/ritikdixit2004/Leetcode-solutions/tree/main/0099-recover-binary-search-tree/) | Medium |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/ritikdixit2004/Leetcode-solutions/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0099-recover-binary-search-tree](https://github.com/ritikdixit2004/Leetcode-solutions/tree/main/0099-recover-binary-search-tree/) | Medium |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/ritikdixit2004/Leetcode-solutions/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0099-recover-binary-search-tree](https://github.com/ritikdixit2004/Leetcode-solutions/tree/main/0099-recover-binary-search-tree/) | Medium |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/ritikdixit2004/Leetcode-solutions/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0223-rectangle-area](https://github.com/ritikdixit2004/Leetcode-solutions/tree/main/0223-rectangle-area/) | Medium |
+## DP on Trees
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/ritikdixit2004/Leetcode-solutions/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 <!---LeetCode Topics End-->
