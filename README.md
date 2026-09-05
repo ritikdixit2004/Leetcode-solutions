@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0057-insert-interval](https://github.com/ritikdixit2004/Leetcode-solutions/tree/main/0057-insert-interval/) | Medium |
 | [0090-subsets-ii](https://github.com/ritikdixit2004/Leetcode-solutions/tree/main/0090-subsets-ii/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ritikdixit2004/Leetcode-solutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/ritikdixit2004/Leetcode-solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
