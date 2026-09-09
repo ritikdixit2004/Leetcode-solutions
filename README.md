@@ -97,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0113-path-sum-ii](https://github.com/ritikdixit2004/Leetcode-solutions/tree/main/0113-path-sum-ii/) | Medium |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/ritikdixit2004/Leetcode-solutions/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ritikdixit2004/Leetcode-solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+| [0133-clone-graph](https://github.com/ritikdixit2004/Leetcode-solutions/tree/main/0133-clone-graph/) | Medium |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/ritikdixit2004/Leetcode-solutions/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 ## Binary Search Tree
 | Problem Name | Difficulty |
@@ -128,6 +129,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/ritikdixit2004/Leetcode-solutions/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
 | [0112-path-sum](https://github.com/ritikdixit2004/Leetcode-solutions/tree/main/0112-path-sum/) | Easy |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/ritikdixit2004/Leetcode-solutions/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
+| [0133-clone-graph](https://github.com/ritikdixit2004/Leetcode-solutions/tree/main/0133-clone-graph/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -144,4 +146,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/ritikdixit2004/Leetcode-solutions/tree/main/0075-sort-colors/) | Medium |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0133-clone-graph](https://github.com/ritikdixit2004/Leetcode-solutions/tree/main/0133-clone-graph/) | Medium |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0133-clone-graph](https://github.com/ritikdixit2004/Leetcode-solutions/tree/main/0133-clone-graph/) | Medium |
 <!---LeetCode Topics End-->
