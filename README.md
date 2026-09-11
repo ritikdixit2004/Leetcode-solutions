@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0097-interleaving-string](https://github.com/ritikdixit2004/Leetcode-solutions/tree/main/0097-interleaving-string/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ritikdixit2004/Leetcode-solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0397-integer-replacement](https://github.com/ritikdixit2004/Leetcode-solutions/tree/main/0397-integer-replacement/) | Medium |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/ritikdixit2004/Leetcode-solutions/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
@@ -138,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0093-restore-ip-addresses](https://github.com/ritikdixit2004/Leetcode-solutions/tree/main/0093-restore-ip-addresses/) | Medium |
+| [0097-interleaving-string](https://github.com/ritikdixit2004/Leetcode-solutions/tree/main/0097-interleaving-string/) | Medium |
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
