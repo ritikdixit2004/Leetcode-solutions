@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0397-integer-replacement](https://github.com/ritikdixit2004/Leetcode-solutions/tree/main/0397-integer-replacement/) | Medium |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ritikdixit2004/Leetcode-solutions/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -38,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/ritikdixit2004/Leetcode-solutions/tree/main/0075-sort-colors/) | Medium |
 | [0295-find-median-from-data-stream](https://github.com/ritikdixit2004/Leetcode-solutions/tree/main/0295-find-median-from-data-stream/) | Hard |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ritikdixit2004/Leetcode-solutions/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -143,6 +145,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0093-restore-ip-addresses](https://github.com/ritikdixit2004/Leetcode-solutions/tree/main/0093-restore-ip-addresses/) | Medium |
 | [0097-interleaving-string](https://github.com/ritikdixit2004/Leetcode-solutions/tree/main/0097-interleaving-string/) | Medium |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ritikdixit2004/Leetcode-solutions/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -155,6 +158,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0133-clone-graph](https://github.com/ritikdixit2004/Leetcode-solutions/tree/main/0133-clone-graph/) | Medium |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ritikdixit2004/Leetcode-solutions/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
