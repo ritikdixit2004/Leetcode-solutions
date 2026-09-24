@@ -59,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0150-evaluate-reverse-polish-notation](https://github.com/ritikdixit2004/Leetcode-solutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0179-largest-number](https://github.com/ritikdixit2004/Leetcode-solutions/tree/main/0179-largest-number/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/ritikdixit2004/Leetcode-solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0216-combination-sum-iii](https://github.com/ritikdixit2004/Leetcode-solutions/tree/main/0216-combination-sum-iii/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -75,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0090-subsets-ii](https://github.com/ritikdixit2004/Leetcode-solutions/tree/main/0090-subsets-ii/) | Medium |
 | [0093-restore-ip-addresses](https://github.com/ritikdixit2004/Leetcode-solutions/tree/main/0093-restore-ip-addresses/) | Medium |
 | [0113-path-sum-ii](https://github.com/ritikdixit2004/Leetcode-solutions/tree/main/0113-path-sum-ii/) | Medium |
+| [0216-combination-sum-iii](https://github.com/ritikdixit2004/Leetcode-solutions/tree/main/0216-combination-sum-iii/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
