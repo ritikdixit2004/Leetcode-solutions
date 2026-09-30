@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0090-subsets-ii](https://github.com/ritikdixit2004/Leetcode-solutions/tree/main/0090-subsets-ii/) | Medium |
+| [0190-reverse-bits](https://github.com/ritikdixit2004/Leetcode-solutions/tree/main/0190-reverse-bits/) | Easy |
 | [0397-integer-replacement](https://github.com/ritikdixit2004/Leetcode-solutions/tree/main/0397-integer-replacement/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
@@ -174,4 +175,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0143-reorder-list](https://github.com/ritikdixit2004/Leetcode-solutions/tree/main/0143-reorder-list/) | Medium |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0190-reverse-bits](https://github.com/ritikdixit2004/Leetcode-solutions/tree/main/0190-reverse-bits/) | Easy |
 <!---LeetCode Topics End-->
