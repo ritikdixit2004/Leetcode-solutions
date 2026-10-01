@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0029-divide-two-integers](https://github.com/ritikdixit2004/Leetcode-solutions/tree/main/0029-divide-two-integers/) | Medium |
 | [0090-subsets-ii](https://github.com/ritikdixit2004/Leetcode-solutions/tree/main/0090-subsets-ii/) | Medium |
 | [0190-reverse-bits](https://github.com/ritikdixit2004/Leetcode-solutions/tree/main/0190-reverse-bits/) | Easy |
 | [0397-integer-replacement](https://github.com/ritikdixit2004/Leetcode-solutions/tree/main/0397-integer-replacement/) | Medium |
@@ -65,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0029-divide-two-integers](https://github.com/ritikdixit2004/Leetcode-solutions/tree/main/0029-divide-two-integers/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ritikdixit2004/Leetcode-solutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0223-rectangle-area](https://github.com/ritikdixit2004/Leetcode-solutions/tree/main/0223-rectangle-area/) | Medium |
 ## Stack
