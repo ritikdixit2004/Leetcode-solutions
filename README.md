@@ -97,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0099-recover-binary-search-tree](https://github.com/ritikdixit2004/Leetcode-solutions/tree/main/0099-recover-binary-search-tree/) | Medium |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ritikdixit2004/Leetcode-solutions/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/ritikdixit2004/Leetcode-solutions/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
 | [0112-path-sum](https://github.com/ritikdixit2004/Leetcode-solutions/tree/main/0112-path-sum/) | Easy |
 | [0113-path-sum-ii](https://github.com/ritikdixit2004/Leetcode-solutions/tree/main/0113-path-sum-ii/) | Medium |
@@ -122,6 +123,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0099-recover-binary-search-tree](https://github.com/ritikdixit2004/Leetcode-solutions/tree/main/0099-recover-binary-search-tree/) | Medium |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ritikdixit2004/Leetcode-solutions/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/ritikdixit2004/Leetcode-solutions/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
 | [0112-path-sum](https://github.com/ritikdixit2004/Leetcode-solutions/tree/main/0112-path-sum/) | Easy |
 | [0113-path-sum-ii](https://github.com/ritikdixit2004/Leetcode-solutions/tree/main/0113-path-sum-ii/) | Medium |
@@ -140,6 +142,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ritikdixit2004/Leetcode-solutions/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/ritikdixit2004/Leetcode-solutions/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
 | [0112-path-sum](https://github.com/ritikdixit2004/Leetcode-solutions/tree/main/0112-path-sum/) | Easy |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/ritikdixit2004/Leetcode-solutions/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
