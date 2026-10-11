@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0179-largest-number](https://github.com/ritikdixit2004/Leetcode-solutions/tree/main/0179-largest-number/) | Medium |
 | [0397-integer-replacement](https://github.com/ritikdixit2004/Leetcode-solutions/tree/main/0397-integer-replacement/) | Medium |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ritikdixit2004/Leetcode-solutions/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ritikdixit2004/Leetcode-solutions/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -44,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/ritikdixit2004/Leetcode-solutions/tree/main/0075-sort-colors/) | Medium |
 | [0179-largest-number](https://github.com/ritikdixit2004/Leetcode-solutions/tree/main/0179-largest-number/) | Medium |
 | [0295-find-median-from-data-stream](https://github.com/ritikdixit2004/Leetcode-solutions/tree/main/0295-find-median-from-data-stream/) | Hard |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ritikdixit2004/Leetcode-solutions/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ritikdixit2004/Leetcode-solutions/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -65,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0179-largest-number](https://github.com/ritikdixit2004/Leetcode-solutions/tree/main/0179-largest-number/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/ritikdixit2004/Leetcode-solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0216-combination-sum-iii](https://github.com/ritikdixit2004/Leetcode-solutions/tree/main/0216-combination-sum-iii/) | Medium |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ritikdixit2004/Leetcode-solutions/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
