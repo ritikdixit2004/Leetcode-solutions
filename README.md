@@ -56,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0039-combination-sum](https://github.com/ritikdixit2004/Leetcode-solutions/tree/main/0039-combination-sum/) | Medium |
 | [0057-insert-interval](https://github.com/ritikdixit2004/Leetcode-solutions/tree/main/0057-insert-interval/) | Medium |
 | [0075-sort-colors](https://github.com/ritikdixit2004/Leetcode-solutions/tree/main/0075-sort-colors/) | Medium |
 | [0090-subsets-ii](https://github.com/ritikdixit2004/Leetcode-solutions/tree/main/0090-subsets-ii/) | Medium |
@@ -78,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0039-combination-sum](https://github.com/ritikdixit2004/Leetcode-solutions/tree/main/0039-combination-sum/) | Medium |
 | [0077-combinations](https://github.com/ritikdixit2004/Leetcode-solutions/tree/main/0077-combinations/) | Medium |
 | [0090-subsets-ii](https://github.com/ritikdixit2004/Leetcode-solutions/tree/main/0090-subsets-ii/) | Medium |
 | [0093-restore-ip-addresses](https://github.com/ritikdixit2004/Leetcode-solutions/tree/main/0093-restore-ip-addresses/) | Medium |
