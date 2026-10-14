@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0072-edit-distance](https://github.com/ritikdixit2004/Leetcode-solutions/tree/main/0072-edit-distance/) | Medium |
 | [0097-interleaving-string](https://github.com/ritikdixit2004/Leetcode-solutions/tree/main/0097-interleaving-string/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ritikdixit2004/Leetcode-solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+| [0139-word-break](https://github.com/ritikdixit2004/Leetcode-solutions/tree/main/0139-word-break/) | Medium |
 | [0397-integer-replacement](https://github.com/ritikdixit2004/Leetcode-solutions/tree/main/0397-integer-replacement/) | Medium |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/ritikdixit2004/Leetcode-solutions/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 ## Greedy
@@ -28,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0139-word-break](https://github.com/ritikdixit2004/Leetcode-solutions/tree/main/0139-word-break/) | Medium |
 | [0397-integer-replacement](https://github.com/ritikdixit2004/Leetcode-solutions/tree/main/0397-integer-replacement/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -62,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0057-insert-interval](https://github.com/ritikdixit2004/Leetcode-solutions/tree/main/0057-insert-interval/) | Medium |
 | [0075-sort-colors](https://github.com/ritikdixit2004/Leetcode-solutions/tree/main/0075-sort-colors/) | Medium |
 | [0090-subsets-ii](https://github.com/ritikdixit2004/Leetcode-solutions/tree/main/0090-subsets-ii/) | Medium |
+| [0139-word-break](https://github.com/ritikdixit2004/Leetcode-solutions/tree/main/0139-word-break/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ritikdixit2004/Leetcode-solutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0162-find-peak-element](https://github.com/ritikdixit2004/Leetcode-solutions/tree/main/0162-find-peak-element/) | Medium |
 | [0179-largest-number](https://github.com/ritikdixit2004/Leetcode-solutions/tree/main/0179-largest-number/) | Medium |
@@ -171,6 +174,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0072-edit-distance](https://github.com/ritikdixit2004/Leetcode-solutions/tree/main/0072-edit-distance/) | Medium |
 | [0093-restore-ip-addresses](https://github.com/ritikdixit2004/Leetcode-solutions/tree/main/0093-restore-ip-addresses/) | Medium |
 | [0097-interleaving-string](https://github.com/ritikdixit2004/Leetcode-solutions/tree/main/0097-interleaving-string/) | Medium |
+| [0139-word-break](https://github.com/ritikdixit2004/Leetcode-solutions/tree/main/0139-word-break/) | Medium |
 | [0179-largest-number](https://github.com/ritikdixit2004/Leetcode-solutions/tree/main/0179-largest-number/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ritikdixit2004/Leetcode-solutions/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 ## Quicksort
@@ -185,6 +189,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0133-clone-graph](https://github.com/ritikdixit2004/Leetcode-solutions/tree/main/0133-clone-graph/) | Medium |
+| [0139-word-break](https://github.com/ritikdixit2004/Leetcode-solutions/tree/main/0139-word-break/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ritikdixit2004/Leetcode-solutions/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 ## Graph Theory
 | Problem Name | Difficulty |
@@ -198,4 +203,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0190-reverse-bits](https://github.com/ritikdixit2004/Leetcode-solutions/tree/main/0190-reverse-bits/) | Easy |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0139-word-break](https://github.com/ritikdixit2004/Leetcode-solutions/tree/main/0139-word-break/) | Medium |
+## Brute-Force Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0139-word-break](https://github.com/ritikdixit2004/Leetcode-solutions/tree/main/0139-word-break/) | Medium |
 <!---LeetCode Topics End-->
