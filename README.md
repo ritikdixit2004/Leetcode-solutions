@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/ritikdixit2004/Leetcode-solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0072-edit-distance](https://github.com/ritikdixit2004/Leetcode-solutions/tree/main/0072-edit-distance/) | Medium |
 | [0097-interleaving-string](https://github.com/ritikdixit2004/Leetcode-solutions/tree/main/0097-interleaving-string/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ritikdixit2004/Leetcode-solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
@@ -29,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/ritikdixit2004/Leetcode-solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0139-word-break](https://github.com/ritikdixit2004/Leetcode-solutions/tree/main/0139-word-break/) | Medium |
 | [0397-integer-replacement](https://github.com/ritikdixit2004/Leetcode-solutions/tree/main/0397-integer-replacement/) | Medium |
 ## Two Pointers
@@ -75,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0029-divide-two-integers](https://github.com/ritikdixit2004/Leetcode-solutions/tree/main/0029-divide-two-integers/) | Medium |
+| [0070-climbing-stairs](https://github.com/ritikdixit2004/Leetcode-solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ritikdixit2004/Leetcode-solutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0223-rectangle-area](https://github.com/ritikdixit2004/Leetcode-solutions/tree/main/0223-rectangle-area/) | Medium |
 ## Stack
