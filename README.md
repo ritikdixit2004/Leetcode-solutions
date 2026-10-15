@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0029-divide-two-integers](https://github.com/ritikdixit2004/Leetcode-solutions/tree/main/0029-divide-two-integers/) | Medium |
+| [0067-add-binary](https://github.com/ritikdixit2004/Leetcode-solutions/tree/main/0067-add-binary/) | Easy |
 | [0090-subsets-ii](https://github.com/ritikdixit2004/Leetcode-solutions/tree/main/0090-subsets-ii/) | Medium |
 | [0190-reverse-bits](https://github.com/ritikdixit2004/Leetcode-solutions/tree/main/0190-reverse-bits/) | Easy |
 | [0397-integer-replacement](https://github.com/ritikdixit2004/Leetcode-solutions/tree/main/0397-integer-replacement/) | Medium |
@@ -77,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0029-divide-two-integers](https://github.com/ritikdixit2004/Leetcode-solutions/tree/main/0029-divide-two-integers/) | Medium |
+| [0067-add-binary](https://github.com/ritikdixit2004/Leetcode-solutions/tree/main/0067-add-binary/) | Easy |
 | [0070-climbing-stairs](https://github.com/ritikdixit2004/Leetcode-solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ritikdixit2004/Leetcode-solutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0223-rectangle-area](https://github.com/ritikdixit2004/Leetcode-solutions/tree/main/0223-rectangle-area/) | Medium |
@@ -174,6 +176,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0067-add-binary](https://github.com/ritikdixit2004/Leetcode-solutions/tree/main/0067-add-binary/) | Easy |
 | [0072-edit-distance](https://github.com/ritikdixit2004/Leetcode-solutions/tree/main/0072-edit-distance/) | Medium |
 | [0093-restore-ip-addresses](https://github.com/ritikdixit2004/Leetcode-solutions/tree/main/0093-restore-ip-addresses/) | Medium |
 | [0097-interleaving-string](https://github.com/ritikdixit2004/Leetcode-solutions/tree/main/0097-interleaving-string/) | Medium |
@@ -214,4 +217,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0139-word-break](https://github.com/ritikdixit2004/Leetcode-solutions/tree/main/0139-word-break/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0067-add-binary](https://github.com/ritikdixit2004/Leetcode-solutions/tree/main/0067-add-binary/) | Easy |
 <!---LeetCode Topics End-->
