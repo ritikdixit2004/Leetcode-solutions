@@ -57,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0295-find-median-from-data-stream](https://github.com/ritikdixit2004/Leetcode-solutions/tree/main/0295-find-median-from-data-stream/) | Hard |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/ritikdixit2004/Leetcode-solutions/tree/main/0373-find-k-pairs-with-smallest-sums/) | Medium |
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -75,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0209-minimum-size-subarray-sum](https://github.com/ritikdixit2004/Leetcode-solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0216-combination-sum-iii](https://github.com/ritikdixit2004/Leetcode-solutions/tree/main/0216-combination-sum-iii/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/ritikdixit2004/Leetcode-solutions/tree/main/0300-longest-increasing-subsequence/) | Medium |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/ritikdixit2004/Leetcode-solutions/tree/main/0373-find-k-pairs-with-smallest-sums/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ritikdixit2004/Leetcode-solutions/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 ## Math
 | Problem Name | Difficulty |
