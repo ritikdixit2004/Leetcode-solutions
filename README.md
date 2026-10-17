@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0097-interleaving-string](https://github.com/ritikdixit2004/Leetcode-solutions/tree/main/0097-interleaving-string/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ritikdixit2004/Leetcode-solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0139-word-break](https://github.com/ritikdixit2004/Leetcode-solutions/tree/main/0139-word-break/) | Medium |
+| [0300-longest-increasing-subsequence](https://github.com/ritikdixit2004/Leetcode-solutions/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0397-integer-replacement](https://github.com/ritikdixit2004/Leetcode-solutions/tree/main/0397-integer-replacement/) | Medium |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/ritikdixit2004/Leetcode-solutions/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 ## Greedy
@@ -73,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0179-largest-number](https://github.com/ritikdixit2004/Leetcode-solutions/tree/main/0179-largest-number/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/ritikdixit2004/Leetcode-solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0216-combination-sum-iii](https://github.com/ritikdixit2004/Leetcode-solutions/tree/main/0216-combination-sum-iii/) | Medium |
+| [0300-longest-increasing-subsequence](https://github.com/ritikdixit2004/Leetcode-solutions/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ritikdixit2004/Leetcode-solutions/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 ## Math
 | Problem Name | Difficulty |
@@ -101,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0162-find-peak-element](https://github.com/ritikdixit2004/Leetcode-solutions/tree/main/0162-find-peak-element/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/ritikdixit2004/Leetcode-solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0300-longest-increasing-subsequence](https://github.com/ritikdixit2004/Leetcode-solutions/tree/main/0300-longest-increasing-subsequence/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -221,4 +224,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/ritikdixit2004/Leetcode-solutions/tree/main/0067-add-binary/) | Easy |
+## Longest Increasing Subsequence
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/ritikdixit2004/Leetcode-solutions/tree/main/0300-longest-increasing-subsequence/) | Medium |
 <!---LeetCode Topics End-->
