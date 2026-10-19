@@ -88,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0067-add-binary](https://github.com/ritikdixit2004/Leetcode-solutions/tree/main/0067-add-binary/) | Easy |
 | [0070-climbing-stairs](https://github.com/ritikdixit2004/Leetcode-solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ritikdixit2004/Leetcode-solutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0172-factorial-trailing-zeroes](https://github.com/ritikdixit2004/Leetcode-solutions/tree/main/0172-factorial-trailing-zeroes/) | Medium |
 | [0223-rectangle-area](https://github.com/ritikdixit2004/Leetcode-solutions/tree/main/0223-rectangle-area/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
