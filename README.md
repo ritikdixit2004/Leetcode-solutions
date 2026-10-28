@@ -42,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/ritikdixit2004/Leetcode-solutions/tree/main/0075-sort-colors/) | Medium |
 | [0086-partition-list](https://github.com/ritikdixit2004/Leetcode-solutions/tree/main/0086-partition-list/) | Medium |
+| [0141-linked-list-cycle](https://github.com/ritikdixit2004/Leetcode-solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0143-reorder-list](https://github.com/ritikdixit2004/Leetcode-solutions/tree/main/0143-reorder-list/) | Medium |
 | [0295-find-median-from-data-stream](https://github.com/ritikdixit2004/Leetcode-solutions/tree/main/0295-find-median-from-data-stream/) | Hard |
 ## Design
@@ -186,6 +187,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0086-partition-list](https://github.com/ritikdixit2004/Leetcode-solutions/tree/main/0086-partition-list/) | Medium |
 | [0092-reverse-linked-list-ii](https://github.com/ritikdixit2004/Leetcode-solutions/tree/main/0092-reverse-linked-list-ii/) | Medium |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/ritikdixit2004/Leetcode-solutions/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
+| [0141-linked-list-cycle](https://github.com/ritikdixit2004/Leetcode-solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0143-reorder-list](https://github.com/ritikdixit2004/Leetcode-solutions/tree/main/0143-reorder-list/) | Medium |
 | [0147-insertion-sort-list](https://github.com/ritikdixit2004/Leetcode-solutions/tree/main/0147-insertion-sort-list/) | Medium |
 ## String
@@ -212,6 +214,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0133-clone-graph](https://github.com/ritikdixit2004/Leetcode-solutions/tree/main/0133-clone-graph/) | Medium |
 | [0139-word-break](https://github.com/ritikdixit2004/Leetcode-solutions/tree/main/0139-word-break/) | Medium |
+| [0141-linked-list-cycle](https://github.com/ritikdixit2004/Leetcode-solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ritikdixit2004/Leetcode-solutions/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 ## Graph Theory
 | Problem Name | Difficulty |
@@ -241,4 +244,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/ritikdixit2004/Leetcode-solutions/tree/main/0300-longest-increasing-subsequence/) | Medium |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/ritikdixit2004/Leetcode-solutions/tree/main/0141-linked-list-cycle/) | Easy |
 <!---LeetCode Topics End-->
